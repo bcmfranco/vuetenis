@@ -71,11 +71,6 @@ h1{
     <div id="court">
       court
     </div>
-
-    <div id="joytick">
-      joystick
-    </div>
-
   </div>
 </template>
 
